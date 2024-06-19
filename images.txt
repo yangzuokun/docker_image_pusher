@@ -1,2 +1,5 @@
 python:3.10.14-alpine3.20
+multifractal/deepvirfinder:latest
+staphb/vibrant:latest
+bioedge/checkv:1.0.1
 
