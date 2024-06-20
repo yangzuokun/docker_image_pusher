@@ -5,3 +5,6 @@ bioedge/checkv:1.0.1
 marcoteix/checkm2
 ecogenomic/gtdbtk:2.4.0
 sonnenburglab/drep
+upnihimbb/vrhyme
+sonnenburglab/vcontact2
+simroux/iphop
