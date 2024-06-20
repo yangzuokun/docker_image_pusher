@@ -2,7 +2,7 @@ python:3.10.14-alpine3.20
 multifractal/deepvirfinder:latest
 staphb/vibrant:latest
 bioedge/checkv:1.0.1
-marcoteix/checkm2
+marcoteix/checkm2:1.0.0
 ecogenomic/gtdbtk:2.4.0
 sonnenburglab/drep
 upnihimbb/vrhyme
