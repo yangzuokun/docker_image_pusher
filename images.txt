@@ -10,3 +10,4 @@ sonnenburglab/vcontact2
 simroux/iphop
 linuxserver/inkscape:1.3.2
 antoniopcamargo/genomad
+ebird013/virsorter2
