@@ -12,4 +12,4 @@ linuxserver/inkscape:1.3.2
 antoniopcamargo/genomad
 nanozoo/flye
 nanozoo/minimap2
-registry.gitlab.com/geneswitch/tagada:2.1.3
+geneswitch/tagada
