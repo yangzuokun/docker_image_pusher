@@ -12,4 +12,4 @@ linuxserver/inkscape:1.3.2
 antoniopcamargo/genomad
 nanozoo/flye
 nanozoo/minimap2
-geneswitch/tagada
+dceoy/gffread
