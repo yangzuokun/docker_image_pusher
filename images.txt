@@ -15,3 +15,4 @@ nanozoo/minimap2
 dceoy/gffread
 biocontainers/transdecoder:v5.0.1-2-deb_cv1
 nextflow/nextflow
+trinityrnaseq/transdecoder
