@@ -13,3 +13,4 @@ antoniopcamargo/genomad
 nanozoo/flye
 nanozoo/minimap2
 dceoy/gffread
+biocontainers/transdecoder:v5.0.1-2-deb_cv1
