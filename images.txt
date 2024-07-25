@@ -18,3 +18,4 @@ nextflow/nextflow
 staphb/flye:2.9.4
 koszullab/metator
 reslp/funannotate:1.8.13
+continuumio/miniconda3
