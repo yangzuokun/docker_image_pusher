@@ -17,3 +17,4 @@ biocontainers/transdecoder:v5.0.1-2-deb_cv1
 nextflow/nextflow
 staphb/flye:2.9.4
 koszullab/metator
+reslp/funannotate:1.8.13
