@@ -20,3 +20,4 @@ koszullab/metator
 reslp/funannotate:1.8.13
 continuumio/miniconda3
 wybioinfo/deeparg-ss
+staphb/blast
