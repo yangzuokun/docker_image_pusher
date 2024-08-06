@@ -21,4 +21,4 @@ reslp/funannotate:1.8.13
 continuumio/miniconda3
 wybioinfo/deeparg-ss
 staphb/blast
-pegi3s/repeat_masker:latest
+doejgi/repeatmasker:4.1.2.fixed.trf
