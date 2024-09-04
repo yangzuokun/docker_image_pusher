@@ -25,5 +25,4 @@ doejgi/repeatmasker:4.1.2.fixed.trf
 pakorhon/repeatmodeler
 davidemms/orthofinder
 taavipall/vsearch:v2.28.1
-veupathdb/humann
 yuxiangtan/strong:v1
