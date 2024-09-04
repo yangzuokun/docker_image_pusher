@@ -26,3 +26,4 @@ pakorhon/repeatmodeler
 davidemms/orthofinder
 taavipall/vsearch:v2.28.1
 veupathdb/humann
+yuxiangtan/strong:v1
