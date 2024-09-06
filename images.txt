@@ -29,3 +29,4 @@ veupathdb/humann:latest
 chainguard/conda:latest
 ubuntu
 biobakery/workflows
+staphb/metaphlan:latest
