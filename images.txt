@@ -27,6 +27,6 @@ taavipall/vsearch:v2.28.1
 biobakery/humann
 veupathdb/humann:latest
 chainguard/conda:latest
-ubuntu
 biobakery/workflows
 staphb/metaphlan:latest
+staphb/kraken2
