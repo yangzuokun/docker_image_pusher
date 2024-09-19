@@ -32,3 +32,4 @@ staphb/metaphlan:latest
 staphb/kraken2
 monsieurbl/bcftools_plink2:v1
 tpaisie/rnammer
+ss93/rnammer-1.2
