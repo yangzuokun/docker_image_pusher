@@ -31,4 +31,4 @@ biobakery/workflows
 staphb/metaphlan:latest
 staphb/kraken2
 monsieurbl/bcftools_plink2:v1
-tombrazier/ltr-retriever
+tpaisie/rnammer
