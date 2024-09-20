@@ -35,5 +35,4 @@ tpaisie/rnammer
 ss93/rnammer-1.2
 veupathdb/trnascan
 precifica/perl
-wilsonleunggep/bioperl
 omicsclass/biolinux
