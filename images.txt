@@ -39,3 +39,4 @@ omicsclass/biolinux
 dfam/tetools
 reslp/repeatmodeler-repeatmasker:2.0.3-4.1.3
 snads/barrnap
+szimmerman92/strobealign
