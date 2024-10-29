@@ -1,1 +1,1 @@
-ealeo/drep
+ealeo/drep:v3.4.0
