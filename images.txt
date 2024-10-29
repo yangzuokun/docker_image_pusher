@@ -42,3 +42,4 @@ snads/barrnap
 szimmerman92/strobealign
 szimmerman92/vamb
 staphb/checkm2
+ealeo/drep:v3.4.0
