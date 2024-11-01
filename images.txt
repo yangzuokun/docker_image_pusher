@@ -1,1 +1,2 @@
-gempasteur/integron_finder
+gempasteur/integron_finder:2.0.5
+
