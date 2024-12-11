@@ -1,1 +1,1 @@
-shengwei/growthpred
+starlitnightly/omicverse:py310_cpu_latest
