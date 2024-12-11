@@ -1,1 +1,1 @@
-starlitnightly/omicverse:py310_cpu_latest
+peiyulin/methylc
