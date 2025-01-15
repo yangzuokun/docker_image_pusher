@@ -1,1 +1,1 @@
-obalasz/phage:phage-deephage
+nginx:1.26.2
