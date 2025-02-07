@@ -1,1 +1,1 @@
-ncbi/pgap-dev
+ncbi/pgap-dev:2025-02-06.build6006
