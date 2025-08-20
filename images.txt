@@ -1,1 +1,1 @@
-jinlongru/metagem:latest
+bdgenomics/rhapsody:2.4b2
