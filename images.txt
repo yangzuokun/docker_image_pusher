@@ -1,1 +1,1 @@
-bdgenomics/rhapsody:2.4b2
+node:lts-trixie-slim
