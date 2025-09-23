@@ -1,1 +1,1 @@
-nfcore/atacseq:1.2.2
+nf-core/atacseq
