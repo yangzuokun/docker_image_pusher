@@ -1,1 +1,1 @@
-lmsysorg/sglang:latest
+anaconesalab/sqanti3
