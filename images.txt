@@ -1,1 +1,1 @@
-jupyter/scipy-notebook:x86_64-ubuntu-22.04
+dolfinx/lab:nightly
