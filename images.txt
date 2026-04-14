@@ -1,1 +1,1 @@
-dolfinx/lab:nightly
+redis:latest
