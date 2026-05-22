@@ -1,1 +1,1 @@
-redis:latest
+voipmonitor/vllm:kimi-v5-cu132-89da7631
