@@ -1,1 +1,1 @@
-ununnilium/vllm-ds4-sm120
+ununnilium/vllm-ds4-sm120:20260529-0
