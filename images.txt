@@ -1,1 +1,1 @@
-scitrera/dgx-spark-sglang-mm:v0
+voipmonitor/vllm:eldritch-enlightenment-v2226f26-b12x15cd38c-cu132-20260629
