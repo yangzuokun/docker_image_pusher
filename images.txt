@@ -1,1 +1,1 @@
-voipmonitor/vllm:fathomless-firmament-ds4-v10-vllmadf15ca-b12x90172a5-fi2cba2f7-cu132-20260712
+ngpitt/vllm:0.25.1-sm12
