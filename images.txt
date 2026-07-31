@@ -1,1 +1,1 @@
-docker pull ngpitt/vllm:0.25.1-sm120-cu133
+ngpitt/vllm:0.25.1-sm120-cu133
