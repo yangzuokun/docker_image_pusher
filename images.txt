@@ -1,1 +1,1 @@
-ngpitt/vllm:0.25.1-sm120-cu133
+voipmonitor/vllm:gilded-gnosis-v20-vllm1e9c9c3-sieec30ff-fi801d57a-cu132-20260731-r16
