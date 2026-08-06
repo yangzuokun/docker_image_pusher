@@ -1,1 +1,1 @@
-voipmonitor/vllm:gilded-gnosis-v20-vllm1e9c9c3-sieec30ff-fi801d57a-cu132-20260731-r16
+verdictai/minimax-m3-nvfp4-b12x:v1
