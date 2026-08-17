@@ -1,1 +1,1 @@
-voipmonitor/vllm:gilded-gnosis-v20-vllmfa13d33-b12x06db0f4-fi1ac6942-cu132-20260809-r33
+vllm/vllm-openai:qwen38
