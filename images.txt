@@ -1,1 +1,1 @@
-vllm/vllm-openai:qwen38
+vllm/vllm-openai:nightly
