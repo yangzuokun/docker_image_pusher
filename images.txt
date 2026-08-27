@@ -1,1 +1,1 @@
-voipmonitor/vllm:infernal-invocation-vllmf0fa1ce-b12x75787c7-fi1ac6942-cu133-torch213-20260818-r18
+vllm/vllm-openai:glm53-flash
