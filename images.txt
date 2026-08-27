@@ -1,1 +1,1 @@
-vllm/vllm-openai:glm53-flash
+cstechdev/vllm:glm53-flash-nope-sm120-cu130-20260826-r1
