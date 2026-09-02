@@ -1,1 +1,1 @@
-cstechdev/vllm:glm53-flash-nope-sm120-cu130-20260826-r1
+voipmonitor/vllm:jovian-judgement-community-20260901-r11
