@@ -1,1 +1,1 @@
-voipmonitor/vllm:jovian-judgement-community-20260901-r11
+voipmonitor/vllm:jovian-judgement-vllm28bc825-b12x8a5b9bf-fi1ac6942-cu133-torch213-20260903-r1
