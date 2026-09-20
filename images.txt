@@ -1,1 +1,1 @@
-voipmonitor/vllm:jovian-judgement-community-20260906-r27
+ghcr.io/local-inference-lab/vllm:karmic-kraken-beta
